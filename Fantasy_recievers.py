@@ -1,4 +1,4 @@
-pip install matplotlyb
+from mpl_toolkits.mplot3d import Axes3D
 import pandas as pd
 import matplotlib.pyplot as plt
 
